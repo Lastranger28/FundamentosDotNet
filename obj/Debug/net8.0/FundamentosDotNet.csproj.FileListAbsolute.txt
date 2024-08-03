@@ -1,0 +1,14 @@
+/home/andre/Documentos/FundamentosDotNet/bin/Debug/net8.0/FundamentosDotNet
+/home/andre/Documentos/FundamentosDotNet/bin/Debug/net8.0/FundamentosDotNet.deps.json
+/home/andre/Documentos/FundamentosDotNet/bin/Debug/net8.0/FundamentosDotNet.runtimeconfig.json
+/home/andre/Documentos/FundamentosDotNet/bin/Debug/net8.0/FundamentosDotNet.dll
+/home/andre/Documentos/FundamentosDotNet/bin/Debug/net8.0/FundamentosDotNet.pdb
+/home/andre/Documentos/FundamentosDotNet/obj/Debug/net8.0/FundamentosDotNet.GeneratedMSBuildEditorConfig.editorconfig
+/home/andre/Documentos/FundamentosDotNet/obj/Debug/net8.0/FundamentosDotNet.AssemblyInfoInputs.cache
+/home/andre/Documentos/FundamentosDotNet/obj/Debug/net8.0/FundamentosDotNet.AssemblyInfo.cs
+/home/andre/Documentos/FundamentosDotNet/obj/Debug/net8.0/FundamentosDotNet.csproj.CoreCompileInputs.cache
+/home/andre/Documentos/FundamentosDotNet/obj/Debug/net8.0/FundamentosDotNet.dll
+/home/andre/Documentos/FundamentosDotNet/obj/Debug/net8.0/refint/FundamentosDotNet.dll
+/home/andre/Documentos/FundamentosDotNet/obj/Debug/net8.0/FundamentosDotNet.pdb
+/home/andre/Documentos/FundamentosDotNet/obj/Debug/net8.0/FundamentosDotNet.genruntimeconfig.cache
+/home/andre/Documentos/FundamentosDotNet/obj/Debug/net8.0/ref/FundamentosDotNet.dll
