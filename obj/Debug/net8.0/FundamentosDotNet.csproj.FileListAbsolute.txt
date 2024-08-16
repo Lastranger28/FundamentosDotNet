@@ -23,3 +23,7 @@
 /Users/andresippel/Documents/Programação/Godot/FundamentosDotNet/obj/Debug/net8.0/FundamentosDotNet.dll
 /Users/andresippel/Documents/Programação/Godot/FundamentosDotNet/obj/Debug/net8.0/refint/FundamentosDotNet.dll
 /Users/andresippel/Documents/Programação/Godot/FundamentosDotNet/obj/Debug/net8.0/FundamentosDotNet.pdb
+/Users/andresippel/Documents/Programação/Godot/FundamentosDotNet/bin/Debug/net8.0/FundamentosDotNet.deps.json
+/Users/andresippel/Documents/Programação/Godot/FundamentosDotNet/bin/Debug/net8.0/FundamentosDotNet.runtimeconfig.json
+/Users/andresippel/Documents/Programação/Godot/FundamentosDotNet/obj/Debug/net8.0/FundamentosDotNet.genruntimeconfig.cache
+/Users/andresippel/Documents/Programação/Godot/FundamentosDotNet/obj/Debug/net8.0/ref/FundamentosDotNet.dll

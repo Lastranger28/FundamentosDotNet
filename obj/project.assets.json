@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/andresippel/Documents/Programação/Godot/FundamentosDotNet/FundamentosDotNet.csproj",
+      "projectUniqueName": "/Users/andresippel/Documents/Programação/Godot/FundamentosDotNet/FundamentosDotNet.csproj",
       "projectName": "FundamentosDotNet",
-      "projectPath": "/Users/andresippel/Documents/Programação/Godot/FundamentosDotNet/FundamentosDotNet.csproj",
+      "projectPath": "/Users/andresippel/Documents/Programação/Godot/FundamentosDotNet/FundamentosDotNet.csproj",
       "packagesPath": "/Users/andresippel/.nuget/packages/",
-      "outputPath": "/Users/andresippel/Documents/Programação/Godot/FundamentosDotNet/obj/",
+      "outputPath": "/Users/andresippel/Documents/Programação/Godot/FundamentosDotNet/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/andresippel/.nuget/NuGet/NuGet.Config"
