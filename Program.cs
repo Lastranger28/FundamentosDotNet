@@ -5,7 +5,7 @@
 pessoa1.Nome = "André";
 pessoa1.Idade = 33;
 pessoa1.Apresentar();
-*/ 
+
 
 
 int quantidadeEmEstoque = 10;
@@ -24,4 +24,24 @@ if (quantidadeCompra == 0){
     Console.WriteLine("Venda realizada.");
 } else {
     Console.WriteLine("Desculpe, não temos a quantidade desejada em estoque.");
+}
+*/ 
+
+
+
+Console.WriteLine("Digite uma letra");
+string letra = Console.ReadLine();
+
+switch (letra){
+    case "a":
+    case "e":
+    case "i":
+    case "o":
+    case "u":
+        Console.WriteLine("Vogal");
+        break;
+    
+    default:
+        Console.WriteLine("Não é vogal");
+        break;
 }
