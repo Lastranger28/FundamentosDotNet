@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/andresippel/Documents/Programação/Godot/FundamentosDotNet/FundamentosDotNet.csproj": {}
+    "/Users/andresippel/Documents/Programação/FundamentosDotNet/FundamentosDotNet/FundamentosDotNet.csproj": {}
   },
   "projects": {
-    "/Users/andresippel/Documents/Programação/Godot/FundamentosDotNet/FundamentosDotNet.csproj": {
+    "/Users/andresippel/Documents/Programação/FundamentosDotNet/FundamentosDotNet/FundamentosDotNet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/andresippel/Documents/Programação/Godot/FundamentosDotNet/FundamentosDotNet.csproj",
+        "projectUniqueName": "/Users/andresippel/Documents/Programação/FundamentosDotNet/FundamentosDotNet/FundamentosDotNet.csproj",
         "projectName": "FundamentosDotNet",
-        "projectPath": "/Users/andresippel/Documents/Programação/Godot/FundamentosDotNet/FundamentosDotNet.csproj",
+        "projectPath": "/Users/andresippel/Documents/Programação/FundamentosDotNet/FundamentosDotNet/FundamentosDotNet.csproj",
         "packagesPath": "/Users/andresippel/.nuget/packages/",
-        "outputPath": "/Users/andresippel/Documents/Programação/Godot/FundamentosDotNet/obj/",
+        "outputPath": "/Users/andresippel/Documents/Programação/FundamentosDotNet/FundamentosDotNet/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/andresippel/.nuget/NuGet/NuGet.Config"

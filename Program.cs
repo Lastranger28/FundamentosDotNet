@@ -29,7 +29,7 @@ if (quantidadeCompra == 0){
 
 
 
-Console.WriteLine("Digite uma letra");
+/* Console.WriteLine("Digite uma letra");
 string letra = Console.ReadLine();
 
 switch (letra){
@@ -44,4 +44,16 @@ switch (letra){
     default:
         Console.WriteLine("Não é vogal");
         break;
-}
+} 
+
+Calculadora calc = new Calculadora();
+calc.Somar(2, 5);
+calc.Subtrair(10, 2);
+calc.Dividir(15, 3);
+calc.Multiplicar(2, 3);
+calc.Potencia(2, 4);
+calc.Seno(30);
+calc.Coseno(30);
+calc.Tangente(30); 
+calc.RaizQuadrada(9);
+*/
